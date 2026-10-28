@@ -5,8 +5,6 @@ permalink: /resources/
 nav: true
 nav_order: 5
 description: Links to some stuff that I approve of
-toc:
-  sidebar: left
 ---
 
 ## ML Textbooks
