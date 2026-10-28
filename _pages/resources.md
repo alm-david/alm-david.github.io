@@ -16,7 +16,7 @@ toc:
 - [Foundations of Computer Vision](https://visionbook.mit.edu/)
 
 ## Structural and Molecular Biology
-- [The Machinery of Life](https://link.springer.com/book/10.1007/978-0-387-84925-6), [Atomic Evidence](https://link.springer.com/book/10.1007/978-3-319-32510-1)
+- [The Machinery of Life](https://link.springer.com/book/10.1007/978-0-387-84925-6) and [Atomic Evidence](https://link.springer.com/book/10.1007/978-3-319-32510-1)
 - [Molecular Driving Forces](https://mitpress.mit.edu/9780262054492/molecular-driving-forces/)
 - [Machine Learning Methods for Protein Modeling and Design - A Rosetta Bootcamp](https://sweltering-waterfall-a22.notion.site/Lectures-Slides-Activity-Notebooks-7226d85bd15244639cfb707bfa161c82)
 
@@ -28,7 +28,7 @@ toc:
 ## On Academic Writing
 - [Scientific Writing: The Art of Programming Brains](https://www.mpinat.mpg.de/631838/guidelines_english.pdf)
 - [Writing a Good Scientific Paper](https://is.mpg.de/challenge?next=%2Fnews%2Fwriting-a-good-scientific-paper)
-- [The PhD Metagame](https://maxwellforbes.com/posts/your-paper-is-an-ad/), [Figure Creation Tutorial: Making a Figure 1](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1/), ["Every PhD is Different"](https://maxwellforbes.com/posts/every-phd-is-different/)
+- [The PhD Metagame](https://maxwellforbes.com/posts/your-paper-is-an-ad/), [Figure Creation Tutorial: Making a Figure 1](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1/), and["Every PhD is Different"](https://maxwellforbes.com/posts/every-phd-is-different/)
 
 ## Other
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
