@@ -4,7 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-description: My full CV as a PDF.
 _styles: >
   .cv-button {
     display: inline-block;
