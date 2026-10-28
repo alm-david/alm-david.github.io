@@ -26,7 +26,7 @@ description: Links to some stuff that I approve of
 ## On Academic Writing
 - [Scientific Writing: The Art of Programming Brains](https://www.mpinat.mpg.de/631838/guidelines_english.pdf)
 - [Writing a Good Scientific Paper](https://is.mpg.de/challenge?next=%2Fnews%2Fwriting-a-good-scientific-paper)
-- [The PhD Metagame](https://maxwellforbes.com/posts/your-paper-is-an-ad/), [Figure Creation Tutorial: Making a Figure 1](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1/), and["Every PhD is Different"](https://maxwellforbes.com/posts/every-phd-is-different/)
+- [The PhD Metagame](https://maxwellforbes.com/posts/your-paper-is-an-ad/), [Figure Creation Tutorial: Making a Figure 1](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1/), and ["Every PhD is Different"](https://maxwellforbes.com/posts/every-phd-is-different/)
 
 ## Other
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
