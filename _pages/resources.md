@@ -13,11 +13,6 @@ description: Links to some stuff that I approve of
 - [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf)
 - [Foundations of Computer Vision](https://visionbook.mit.edu/)
 
-## Structural and Molecular Biology
-- [The Machinery of Life](https://link.springer.com/book/10.1007/978-0-387-84925-6) and [Atomic Evidence](https://link.springer.com/book/10.1007/978-3-319-32510-1)
-- [Molecular Driving Forces](https://mitpress.mit.edu/9780262054492/molecular-driving-forces/)
-- [Machine Learning Methods for Protein Modeling and Design - A Rosetta Bootcamp](https://sweltering-waterfall-a22.notion.site/Lectures-Slides-Activity-Notebooks-7226d85bd15244639cfb707bfa161c82)
-
 ## Cryo-EM
 - [Getting Started in Cryo-EM](https://jensenlab.byu.edu/course)
 - [Single-particle cryo-electron microscopy: Mathematical theory, computational challenges, and opportunities](https://arxiv.org/abs/1908.00574)
